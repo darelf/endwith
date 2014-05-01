@@ -1,6 +1,6 @@
 {
   "name": "endwith",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "make sure a string ends with something",
   "author": "Darel Finkbeiner",
   "license": "MIT",
