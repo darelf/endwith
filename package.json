@@ -1,0 +1,13 @@
+{
+  "name": "endwith",
+  "version": "0.0.1",
+  "description": "make sure a string ends with something",
+  "author": "Darel Finkbeiner",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "devDependencies": {
+    "tape": "^2.12.3"
+  }
+}
